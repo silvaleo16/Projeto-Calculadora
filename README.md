@@ -2,6 +2,7 @@
 
 Uma calculadora desenvolvida para praticar e aprimorar conhecimentos em HTML, CSS e JavaScript, explorando conceitos de estruturação, estilização e lógica de programação.
 
+
 🚀 Tecnologias utilizadas
 HTML — Estrutura da aplicação
 CSS — Estilização e layout
@@ -15,6 +16,7 @@ JavaScript — Lógica e funcionamento da calculadora
 🔢 Entrada de números
 📱 Interface adaptável para diferentes tamanhos de tela
 🎯 Objetivo
+
 
 Este projeto foi desenvolvido com o objetivo de colocar em prática conceitos fundamentais do desenvolvimento web, principalmente:
 
